@@ -12,3 +12,7 @@ Implementing my own version of shell to run in intereactive and batch mode.\
 \
 *Things I could have done better*: Start the assignment earlier! This is assignment is a pain in the ass and is slightly broken with bandaid fixes. I will come back to it with better fixes.
 
+## **PA3 -- Tic-Tact_Toe On-Line**
+Implementing a tic-tac-toe game to run on different clients given a domain and port number.\
+\
+*Things I could have done better*: Implement multithreading to its entirety. The assignment was cut short due to the strike.
